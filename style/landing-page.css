@@ -1,0 +1,4436 @@
+/* FFWW Landing Page */
+
+.ffww__ffww-landing-page {
+	position: relative;
+	width: 1440px;
+	height: 4948px;
+	background: #FFFFFF;
+}
+
+
+/* Rectangle 5 */
+
+.ffww__rectangle-5 {
+	position: absolute;
+	width: 1440px;
+	height: 596px;
+	left: 1440px;
+	top: 65px;
+	background: url("/images/globe-image3.jpg"), #C4C4C4;
+	transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+
+/* Rectangle 4.3 */
+
+.ffww__rectangle-4-3 {
+	position: absolute;
+	width: 1445px;
+	height: 1978px;
+	left: -4px;
+	top: 1340px;
+	background: #F2F2F2;
+}
+
+
+/* Rectangle 4.4 */
+
+.ffww__rectangle-4-4 {
+	position: absolute;
+	width: 1441px;
+	height: 410px;
+	left: 0px;
+	top: 1472px;
+	background: rgba(245, 133, 33, 0.1);
+}
+
+
+/* Rectangle 4.5 */
+
+.ffww__rectangle-4-5 {
+	position: absolute;
+	width: 1441px;
+	height: 378px;
+	left: 0px;
+	top: 1882px;
+	background: rgba(0, 147, 238, 0.1);
+}
+
+
+/* Rectangle 4.6 */
+
+.ffww__rectangle-4-6 {
+	position: absolute;
+	width: 1441px;
+	height: 330px;
+	left: 0px;
+	top: 2260px;
+	background: rgba(14, 78, 106, 0.1);
+}
+
+
+/* Rectangle 4.7 */
+
+.ffww__rectangle-4-7 {
+	position: absolute;
+	width: 1441px;
+	height: 372px;
+	left: 0px;
+	top: 2590px;
+	background: rgba(247, 215, 127, 0.1);
+}
+
+
+/* AFWW-Coverage-Map */
+
+.ffww__afww-coverage-map {
+	position: absolute;
+	width: 1447px;
+	height: 693px;
+	left: -6px;
+	top: 3516px;
+	background: url("/images/coverage-map.png");
+}
+
+
+/* Map-Key */
+
+.ffww__map-key {
+	position: absolute;
+	left: 6.74%;
+	right: 81.39%;
+	top: 81.51%;
+	bottom: 17.24%;
+}
+
+
+/* Rectangle */
+
+.ffww__rectangle {
+	position: absolute;
+	left: 6.81%;
+	right: 81.94%;
+	top: 81.51%;
+	bottom: 17.24%;
+	border: 1px solid #A4BDD2;
+	box-sizing: border-box;
+	border-radius: 6px;
+}
+
+
+/* Button 42 px / Blue.1.1 */
+
+.ffww__button-42-px-blue-1-1 {
+	position: absolute;
+	left: 6.74%;
+	right: 81.39%;
+	top: 81.65%;
+	bottom: 17.87%;
+}
+
+
+/* New task */
+
+.ffww__new-task {
+	position: absolute;
+	left: 6.74%;
+	right: 81.39%;
+	top: 81.65%;
+	bottom: 17.87%;
+	font-family: Heebo;
+	font-style: normal;
+	font-weight: 500;
+	line-height: normal;
+	font-size: 15px;
+	text-align: center;
+	color: #2B4876;
+}
+
+
+/* Button 42 px / Blue.1.1.1 */
+
+.ffww__button-42-px-blue-1-1-1 {
+	position: absolute;
+	left: 6.74%;
+	right: 81.39%;
+	top: 82.13%;
+	bottom: 17.38%;
+}
+
+
+/* New task */
+
+.ffww__new-task-1 {
+	position: absolute;
+	left: 6.74%;
+	right: 81.39%;
+	top: 82.13%;
+	bottom: 17.38%;
+	font-family: Heebo;
+	font-style: normal;
+	font-weight: 500;
+	line-height: normal;
+	font-size: 15px;
+	text-align: center;
+	color: #648C90;
+}
+
+
+/* Zoom-Tools */
+
+.ffww__zoom-tools {
+	position: absolute;
+	left: 19.03%;
+	right: 78.4%;
+	top: 81.51%;
+	bottom: 17.24%;
+}
+
+
+/* Rectangle 2 */
+
+.ffww__rectangle-2 {
+	position: absolute;
+	left: 19.03%;
+	right: 78.4%;
+	top: 81.51%;
+	bottom: 17.24%;
+	border: 1px solid #DADADA;
+	box-sizing: border-box;
+	border-radius: 6px;
+}
+
+
+/* Vector */
+
+.ffww__vector {
+	position: absolute;
+	left: 19.1%;
+	right: 78.47%;
+	top: 82.19%;
+	bottom: 17.81%;
+	border: 1px solid #DADADA;
+}
+
+
+/* Group */
+
+.ffww__group {
+	position: absolute;
+	left: 19.79%;
+	right: 79.17%;
+	top: 81.69%;
+	bottom: 18.01%;
+}
+
+
+/* Vector */
+
+.ffww__vector-1 {
+	position: absolute;
+	left: 20.28%;
+	right: 79.72%;
+	top: 81.69%;
+	bottom: 18.01%;
+	border: 3px solid #1F4981;
+}
+
+
+/* Vector */
+
+.ffww__vector-2 {
+	position: absolute;
+	left: 19.79%;
+	right: 80.21%;
+	top: 81.83%;
+	bottom: 17.87%;
+	border: 3px solid #1F4981;
+	transform: rotate(-90deg);
+}
+
+
+/* Group */
+
+.ffww__group-1 {
+	position: absolute;
+	left: 19.79%;
+	right: 79.17%;
+	top: 82.48%;
+	bottom: 17.52%;
+}
+
+
+/* Vector */
+
+.ffww__vector-3 {
+	position: absolute;
+	left: 19.79%;
+	right: 80.21%;
+	top: 82.48%;
+	bottom: 17.22%;
+	border: 3px solid #1F4981;
+	transform: rotate(-90deg);
+}
+
+
+/* Rectangle 2 */
+
+.ffww__rectangle-2-1 {
+	position: absolute;
+	width: 1440px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+	background: #0E4E6A;
+}
+
+
+/* Group */
+
+.ffww__group-2 {
+	position: absolute;
+	width: 127px;
+	height: 32px;
+	left: 1252px;
+	top: 16px;
+}
+
+
+/* Rectangle */
+
+.ffww__rectangle-1 {
+	position: absolute;
+	width: 127px;
+	height: 32px;
+	left: 1252px;
+	top: 16px;
+	background: #F58521;
+	border-radius: 5px;
+}
+
+
+/* Get an Estimate */
+
+.ffww__get-an-estimate {
+	position: absolute;
+	width: 127px;
+	height: 32px;
+	left: 1252px;
+	top: 16px;
+	font-family: Heebo;
+	font-style: normal;
+	font-weight: bold;
+	line-height: normal;
+	font-size: 12px;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+
+/* Contact Us */
+
+.ffww__contact-us {
+	position: absolute;
+	width: 65px;
+	height: 17px;
+	left: 1148px;
+	top: 23px;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	line-height: normal;
+	font-size: 12px;
+	text-align: center;
+	color: #FBFBFF;
+}
+
+
+/* About Us */
+
+.ffww__about-us {
+	position: absolute;
+	width: 55px;
+	height: 17px;
+	left: 963px;
+	top: 23px;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	line-height: normal;
+	font-size: 12px;
+	text-align: center;
+	color: #FBFBFF;
+}
+
+
+/* Products */
+
+.ffww__products {
+	position: absolute;
+	width: 54px;
+	height: 17px;
+	left: 1060px;
+	top: 23px;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	line-height: normal;
+	font-size: 12px;
+	text-align: center;
+	color: #FBFBFF;
+}
+
+
+/* Rectangle 3 */
+
+.ffww__rectangle-3 {
+	position: absolute;
+	width: 50px;
+	height: 1025px;
+	left: 0px;
+	top: -31px;
+}
+
+
+/* Rectangle 3.1 */
+
+.ffww__rectangle-3-1 {
+	position: absolute;
+	width: 50px;
+	height: 1025px;
+	left: 975px;
+	top: -31px;
+}
+
+
+/* How Fairfax Worldwide Works */
+
+.ffww__how-fairfax-worldwide {
+	position: absolute;
+	width: 424px;
+	height: 38px;
+	left: 493px;
+	top: 1383px;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: bold;
+	line-height: normal;
+	font-size: 31px;
+	color: #4F4F4F;
+}
+
+
+/* How Fairfax Worldwide Coverage Map */
+
+.ffww__how-fairfax-worldwide-1 {
+	position: absolute;
+	width: 533px;
+	height: 38px;
+	left: 455px;
+	top: 3388px;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: bold;
+	line-height: normal;
+	font-size: 31px;
+	color: #4F4F4F;
+}
+
+
+/* Text */
+
+.ffww__text {
+	position: absolute;
+	width: 273px;
+	height: 23px;
+	left: 207px;
+	top: 1524px;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: 300;
+	line-height: 22px;
+	font-size: 16px;
+	text-align: right;
+	color: #000000;
+}
+
+
+/* Group 13 */
+
+.ffww__group-13 {
+	position: absolute;
+	width: 886px;
+	height: 238px;
+	left: 277px;
+	top: 3018px;
+}
+
+
+/* Group 14 */
+
+.ffww__group-14 {
+	position: absolute;
+	width: 292px;
+	height: 222.13px;
+	left: 871px;
+	top: 3028px;
+}
+
+
+/* Group 2.1 */
+
+.ffww__group-2-1 {
+	position: absolute;
+	width: 292px;
+	height: 222.13px;
+	left: 871px;
+	top: 3028px;
+	box-shadow: 0px 4px 26px rgba(0, 0, 0, 0.05);
+}
+
+
+/* Group 6.1 */
+
+.ffww__group-6-1 {
+	position: absolute;
+	width: 292px;
+	height: 222.13px;
+	left: 871px;
+	top: 3028px;
+}
+
+
+/* Rectangle 6.3 */
+
+.ffww__rectangle-6-3 {
+	position: absolute;
+	width: 291.1px;
+	height: 221.24px;
+	left: 871px;
+	top: 3028.9px;
+	background: #FFFFFF;
+	box-shadow: 0px 4px 26px rgba(0, 0, 0, 0.05);
+}
+
+
+/* notifications */
+
+.ffww__notifications {
+	position: absolute;
+	width: 0px;
+	height: 20.8px;
+	left: 953.27px;
+	top: 3067.17px;
+	font-family: Avenir;
+	line-height: normal;
+	font-size: 18px;
+	letter-spacing: 0.5px;
+	color: #4F4F4F;
+}
+
+
+/* Rectangle 7 */
+
+.ffww__rectangle-7 {
+	position: absolute;
+	width: 292px;
+	height: 31.35px;
+	left: 871px;
+	top: 3028px;
+}
+
+
+/* Secondary Button */
+
+.ffww__secondary-button {
+	background: #0093EE;
+}
+
+
+/* notifications */
+
+.ffww__notifications-1 {
+	position: absolute;
+	width: 265.13px;
+	height: 20.6px;
+	left: 881.75px;
+	top: 3032.48px;
+	font-family: Avenir;
+	line-height: normal;
+	font-size: 18px;
+	text-align: center;
+	letter-spacing: 0.5px;
+	color: #FFFFFF;
+}
+
+
+/* image 6 */
+
+.ffww__image-6 {
+	position: absolute;
+	width: 266.92px;
+	height: 156.75px;
+	left: 879.06px;
+	top: 3069.2px;
+	background: url("/images/image.png");
+}
+
+
+/* Group 13 */
+
+.ffww__group-13-1 {
+	position: absolute;
+	width: 84.2px;
+	height: 82.4px;
+	left: 939.07px;
+	top: 3148.02px;
+}
+
+
+/* Rectangle 13.3 */
+
+.ffww__rectangle-13-3 {
+	position: absolute;
+	width: 84.2px;
+	height: 82.4px;
+	left: 939.07px;
+	top: 3148.02px;
+	background: #FFFFFF;
+	border: 1px solid #E0E0E0;
+	box-sizing: border-box;
+	box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.08);
+}
+
+
+/* notifications */
+
+.ffww__notifications-2 {
+	position: absolute;
+	width: 61.95px;
+	height: 10.16px;
+	left: 951.17px;
+	top: 3171.95px;
+	font-family: Avenir;
+	line-height: normal;
+	font-size: 9px;
+	letter-spacing: 0.5px;
+	color: #4F4F4F;
+}
+
+
+/* Rectangle 12.17 */
+
+.ffww__rectangle-12-17 {
+	position: absolute;
+	width: 62.7px;
+	height: 4.53px;
+	left: 951.61px;
+	top: 3186.97px;
+	background: rgba(0, 0, 0, 0.06);
+}
+
+
+/* Rectangle 12.18 */
+
+.ffww__rectangle-12-18 {
+	position: absolute;
+	width: 55.53px;
+	height: 4.53px;
+	left: 951.61px;
+	top: 3195.12px;
+	background: rgba(0, 0, 0, 0.06);
+}
+
+
+/* Buttons / Close White */
+
+.ffww__buttons-close-white {
+	position: absolute;
+	width: 6.27px;
+	height: 6.34px;
+	left: 1009.83px;
+	top: 3155.19px;
+}
+
+
+/* Buttons / Close White */
+
+.ffww__buttons-close-white-1 {
+	position: absolute;
+	left: 0%;
+	right: 0%;
+	top: 0%;
+	bottom: 0%;
+}
+
+
+/* Icon */
+
+.ffww__icon {
+	position: absolute;
+	left: 0%;
+	right: 0%;
+	top: 0%;
+	bottom: 0%;
+	background: #E0E0E0;
+}
+
+
+/* Group 2.2 */
+
+.ffww__group-2-2 {
+	position: absolute;
+	width: 64.49px;
+	height: 15.39px;
+	left: 950.72px;
+	top: 3206.89px;
+}
+
+
+/* Group */
+
+.ffww__group-3 {
+	position: absolute;
+	width: 64.49px;
+	height: 15.39px;
+	left: 950.72px;
+	top: 3206.89px;
+}
+
+
+/* Rectangle */
+
+.ffww__rectangle-2 {
+	position: absolute;
+	width: 64.49px;
+	height: 15.39px;
+	left: 950.72px;
+	top: 3206.89px;
+	background: #FFFFFF;
+	border: 0.25px solid #0093EE;
+	box-sizing: border-box;
+	border-radius: 5px;
+}
+
+
+/* View Compliance Info */
+
+.ffww__view-compliance-info {
+	position: absolute;
+	width: 64.49px;
+	height: 15.39px;
+	left: 950.72px;
+	top: 3206.89px;
+	font-family: Avenir;
+	line-height: normal;
+	font-size: 6px;
+	text-align: center;
+	color: #0093EE;
+}
+
+
+/* Secondary Button */
+
+.ffww__secondary-button-1 {}
+
+
+/* colombia-flag-icon-256 */
+
+.ffww__colombia-flag-icon-256 {
+	position: absolute;
+	width: 15.67px;
+	height: 10.39px;
+	left: 951.61px;
+	top: 3155.19px;
+	background: url("/images/colombia-flag-icon-256.png");
+	border-radius: 3px;
+}
+
+
+/* Group 3.1 */
+
+.ffww__group-3-1 {
+	position: absolute;
+	width: 500px;
+	height: 238px;
+	left: 277px;
+	top: 3018px;
+}
+
+
+/* Protection for your business – anywhere, any line */
+
+.ffww__protection-for-your-bu {
+	position: absolute;
+	width: 500px;
+	height: 75px;
+	left: 277px;
+	top: 3018px;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: normal;
+	line-height: normal;
+	font-size: 31px;
+	text-align: right;
+	color: #4F4F4F;
+}
+
+
+/* With 165 countries available in the Fairfax Worldwide network, your coverage and capacity needs will be met with confidence. From property to casualty to professional lines, we have your global insurance needs covered. */
+
+.ffww__with-165-countries-ava {
+	position: absolute;
+	width: 433.59px;
+	height: 145px;
+	left: 343.41px;
+	top: 3111px;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: 300;
+	line-height: 29px;
+	font-size: 21px;
+	text-align: right;
+	color: #000000;
+}
+
+
+/* Rectangle 6 */
+
+.ffww__rectangle-6 {
+	position: absolute;
+	width: 1348px;
+	height: 596px;
+	left: 92px;
+	top: 65px;
+	background: radial-gradient(127.01px at 19.95% 44.6%, #202747 0%, rgba(0, 0, 0, 0) 100%);
+}
+
+
+/* Group */
+
+.ffww__group-4 {
+	position: absolute;
+	width: 164px;
+	height: 47px;
+	left: 67px;
+	top: 435px;
+}
+
+
+/* Rectangle */
+
+.ffww__rectangle-3 {
+	position: absolute;
+	width: 164px;
+	height: 47px;
+	left: 67px;
+	top: 435px;
+	background: #F58521;
+	border-radius: 5px;
+}
+
+
+/* Get an Estimate */
+
+.ffww__get-an-estimate-1 {
+	position: absolute;
+	width: 164px;
+	height: 47px;
+	left: 67px;
+	top: 435px;
+	font-family: Heebo;
+	font-style: normal;
+	font-weight: bold;
+	line-height: normal;
+	font-size: 16px;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+
+/* Say hello to reliable multinational insurance programs with unmatched speed and accuracy. */
+
+.ffww__say-hello-to-reliable {
+	position: absolute;
+	width: 440px;
+	height: 178px;
+	left: 67px;
+	top: 221px;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: bold;
+	line-height: normal;
+	font-size: 37px;
+	color: #FBFBFF;
+	text-shadow: 0px 0px 8px rgba(0, 0, 0, 0.59);
+}
+
+
+/* Footer */
+
+.ffww__footer {
+	position: absolute;
+	width: 1441px;
+	height: 643px;
+	left: 0px;
+	top: 4299px;
+}
+
+
+/* Rectangle 5 */
+
+.ffww__rectangle-5-1 {
+	position: absolute;
+	width: 1025px;
+	height: 643px;
+	left: 0px;
+	top: 4299px;
+	background: #2A566D;
+}
+
+
+/* Screen Shot 2018-09-26 at 12.08 */
+
+.ffww__screen-shot-2018-09-26 {
+	position: absolute;
+	width: 1439px;
+	height: 643px;
+	left: 2px;
+	top: 4299px;
+	background: url("/images/screenshot-2018-09-26.png");
+}
+
+
+/* Accurate */
+
+.ffww__accurate {
+	position: absolute;
+	width: 261px;
+	height: 497px;
+	left: 578px;
+	top: 749px;
+}
+
+
+/* Accurate. */
+
+.ffww__accurate-1 {
+	position: absolute;
+	width: 131px;
+	height: 38px;
+	left: 643px;
+	top: 899px;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: bold;
+	line-height: normal;
+	font-size: 31px;
+	text-align: center;
+	color: #4F4F4F;
+}
+
+
+/* Data you can rely on to make informed decisions that are right for your business. No second guessing, double-checking or additional analysis required. Multinational insurance programs really can be accurate. */
+
+.ffww__data-you-can-rely-on-t {
+	position: absolute;
+	width: 261px;
+	height: 286px;
+	left: 578px;
+	top: 960px;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: 300;
+	line-height: 29px;
+	font-size: 21px;
+	text-align: center;
+	color: #000000;
+}
+
+
+/* target */
+
+.ffww__target {
+	position: absolute;
+	width: 108px;
+	height: 118px;
+	left: 654px;
+	top: 749px;
+}
+
+
+/* Group */
+
+.ffww__group-5 {
+	position: absolute;
+	width: 79.04px;
+	height: 53.35px;
+	left: 668.48px;
+	top: 813.65px;
+}
+
+
+/* Vector */
+
+.ffww__vector-4 {
+	position: absolute;
+	width: 36.57px;
+	height: 53.35px;
+	left: 668.48px;
+	top: 813.65px;
+	background: #FFD15C;
+}
+
+
+/* Vector */
+
+.ffww__vector-5 {
+	position: absolute;
+	width: 36.57px;
+	height: 53.35px;
+	left: 710.95px;
+	top: 813.65px;
+	background: #FFD15C;
+}
+
+
+/* Group */
+
+.ffww__group-6 {
+	position: absolute;
+	width: 66.76px;
+	height: 43.76px;
+	left: 674.62px;
+	top: 813.65px;
+}
+
+
+/* Vector */
+
+.ffww__vector-6 {
+	position: absolute;
+	width: 30.44px;
+	height: 43.76px;
+	left: 674.62px;
+	top: 813.65px;
+	background: #F8B64C;
+}
+
+
+/* Vector */
+
+.ffww__vector-7 {
+	position: absolute;
+	width: 30.44px;
+	height: 43.76px;
+	left: 710.95px;
+	top: 813.65px;
+	background: #F8B64C;
+}
+
+
+/* Vector */
+
+.ffww__vector-8 {
+	position: absolute;
+	width: 108px;
+	height: 108.17px;
+	left: 654px;
+	top: 749px;
+	background: #FF7058;
+}
+
+
+/* Vector */
+
+.ffww__vector-9 {
+	position: absolute;
+	width: 84.93px;
+	height: 85.06px;
+	left: 665.54px;
+	top: 760.55px;
+	background: #FFFFFF;
+}
+
+
+/* Vector */
+
+.ffww__vector-10 {
+	position: absolute;
+	width: 62.35px;
+	height: 62.44px;
+	left: 676.83px;
+	top: 771.86px;
+	background: #FF7058;
+}
+
+
+/* Vector */
+
+.ffww__vector-11 {
+	position: absolute;
+	width: 39.76px;
+	height: 39.83px;
+	left: 688.12px;
+	top: 783.17px;
+	background: #FFFFFF;
+}
+
+
+/* Vector */
+
+.ffww__vector-12 {
+	position: absolute;
+	width: 17.18px;
+	height: 17.21px;
+	left: 699.41px;
+	top: 794.48px;
+	background: #FF7058;
+}
+
+
+/* Vector */
+
+.ffww__vector-13 {
+	position: absolute;
+	width: 41.97px;
+	height: 38.1px;
+	left: 706.77px;
+	top: 766.21px;
+	background: #40596B;
+}
+
+
+/* Group */
+
+.ffww__group-7 {
+	position: absolute;
+	width: 26.26px;
+	height: 26.06px;
+	left: 727.14px;
+	top: 761.29px;
+}
+
+
+/* Vector */
+
+.ffww__vector-14 {
+	position: absolute;
+	width: 16.2px;
+	height: 23.11px;
+	left: 727.14px;
+	top: 761.29px;
+	background: #334A5E;
+}
+
+
+/* Vector */
+
+.ffww__vector-15 {
+	position: absolute;
+	width: 24.3px;
+	height: 15.73px;
+	left: 729.11px;
+	top: 771.62px;
+	background: #334A5E;
+}
+
+
+/* Reliable */
+
+.ffww__reliable {
+	position: absolute;
+	width: 261px;
+	height: 449px;
+	left: 133px;
+	top: 764px;
+}
+
+
+/* Group 4 */
+
+.ffww__group-4 {
+	position: absolute;
+	width: 261px;
+	height: 314px;
+	left: 133px;
+	top: 899px;
+}
+
+
+/* Reliable */
+
+.ffww__reliable-1 {
+	position: absolute;
+	width: 261px;
+	height: 314px;
+	left: 133px;
+	top: 899px;
+}
+
+
+/* Reliable. */
+
+.ffww__reliable-2 {
+	position: absolute;
+	width: 116px;
+	height: 38px;
+	left: 205px;
+	top: 899px;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: bold;
+	line-height: normal;
+	font-size: 31px;
+	color: #4F4F4F;
+}
+
+
+/* Digital compliance information, policies and claims status you can rely on to deliver when you need it most. With information & trusted advisors at your fingertips, we deliver on our promise */
+
+.ffww__digital-compliance-inf {
+	position: absolute;
+	width: 261px;
+	height: 253px;
+	left: 133px;
+	top: 960px;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: 300;
+	line-height: 29px;
+	font-size: 21px;
+	text-align: center;
+	color: #000000;
+}
+
+
+/* image */
+
+.ffww__image {
+	position: absolute;
+	width: 115px;
+	height: 103px;
+	left: 206px;
+	top: 764px;
+	background: url("/images/image.png");
+}
+
+
+/* Responsive */
+
+.ffww__responsive {
+	position: absolute;
+	width: 261px;
+	height: 452px;
+	left: 1023px;
+	top: 732px;
+}
+
+
+/* Group 3 */
+
+.ffww__group-3 {
+	position: absolute;
+	width: 261px;
+	height: 285px;
+	left: 1023px;
+	top: 899px;
+}
+
+
+/* Responsive */
+
+.ffww__responsive-1 {
+	position: absolute;
+	width: 261px;
+	height: 285px;
+	left: 1023px;
+	top: 899px;
+}
+
+
+/* Responsive. */
+
+.ffww__responsive-2 {
+	position: absolute;
+	width: 164px;
+	height: 38px;
+	left: 1071px;
+	top: 899px;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: bold;
+	line-height: normal;
+	font-size: 31px;
+	color: #4F4F4F;
+}
+
+
+/* Your business is moving fast, and we make it our mission to deliver service and support in a way that helps you achieve your goals and get on with your day. */
+
+.ffww__your-business-is-movin {
+	position: absolute;
+	width: 261px;
+	height: 224px;
+	left: 1023px;
+	top: 960px;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: 300;
+	line-height: 29px;
+	font-size: 21px;
+	text-align: center;
+	color: #000000;
+}
+
+
+/* stopwatch (2) */
+
+.ffww__stopwatch-2 {
+	position: absolute;
+	width: 108px;
+	height: 135px;
+	left: 1099px;
+	top: 732px;
+}
+
+
+/* Vector */
+
+.ffww__vector-16 {
+	position: absolute;
+	width: 107.89px;
+	height: 108.09px;
+	left: 1099px;
+	top: 758.81px;
+	background: #FF8571;
+}
+
+
+/* Vector */
+
+.ffww__vector-17 {
+	position: absolute;
+	width: 53.95px;
+	height: 108.09px;
+	left: 1152.95px;
+	top: 758.81px;
+	background: #ED5B3A;
+}
+
+
+/* Vector */
+
+.ffww__vector-18 {
+	position: absolute;
+	width: 92.25px;
+	height: 92.41px;
+	left: 1114.75px;
+	top: 774.59px;
+	background: #890606;
+}
+
+
+/* Vector */
+
+.ffww__vector-19 {
+	position: absolute;
+	width: 88.47px;
+	height: 88.63px;
+	left: 1108.71px;
+	top: 768.53px;
+	background: #EEFCFF;
+}
+
+
+/* Vector */
+
+.ffww__vector-20 {
+	position: absolute;
+	width: 44.24px;
+	height: 88.63px;
+	left: 1152.95px;
+	top: 768.75px;
+	background: #DEF0F9;
+}
+
+
+/* Vector */
+
+.ffww__vector-21 {
+	position: absolute;
+	width: 8.63px;
+	height: 8.65px;
+	left: 1148.63px;
+	top: 808.53px;
+	background: #19D893;
+}
+
+
+/* Group */
+
+.ffww__group-8 {
+	position: absolute;
+	width: 75.09px;
+	height: 75.88px;
+	left: 1116.05px;
+	top: 775.02px;
+}
+
+
+/* Vector */
+
+.ffww__vector-22 {
+	position: absolute;
+	width: 7.34px;
+	height: 7.35px;
+	left: 1149.93px;
+	top: 809.82px;
+	background: #04AF76;
+}
+
+
+/* Vector */
+
+.ffww__vector-23 {
+	position: absolute;
+	width: 2.37px;
+	height: 10.81px;
+	left: 1151.65px;
+	top: 775.02px;
+	background: #04AF76;
+}
+
+
+/* Vector */
+
+.ffww__vector-24 {
+	position: absolute;
+	width: 2.37px;
+	height: 10.81px;
+	left: 1151.65px;
+	top: 840.09px;
+	background: #04AF76;
+}
+
+
+/* Vector */
+
+.ffww__vector-25 {
+	position: absolute;
+	width: 11.22px;
+	height: 2.16px;
+	left: 1179.92px;
+	top: 811.98px;
+	background: #04AF76;
+}
+
+
+/* Vector */
+
+.ffww__vector-26 {
+	position: absolute;
+	width: 11px;
+	height: 2.16px;
+	left: 1116.05px;
+	top: 811.98px;
+	background: #04AF76;
+}
+
+
+/* Vector */
+
+.ffww__vector-27 {
+	position: absolute;
+	width: 8.09px;
+	height: 8.11px;
+	left: 1171.99px;
+	top: 785.88px;
+	background: #04AF76;
+}
+
+
+/* Vector */
+
+.ffww__vector-28 {
+	position: absolute;
+	width: 8.09px;
+	height: 8.11px;
+	left: 1126.03px;
+	top: 831.93px;
+	background: #04AF76;
+}
+
+
+/* Vector */
+
+.ffww__vector-29 {
+	position: absolute;
+	width: 8.09px;
+	height: 8.11px;
+	left: 1171.77px;
+	top: 831.93px;
+	background: #04AF76;
+}
+
+
+/* Vector */
+
+.ffww__vector-30 {
+	position: absolute;
+	width: 8.09px;
+	height: 8.11px;
+	left: 1125.81px;
+	top: 785.88px;
+	background: #04AF76;
+}
+
+
+/* Vector */
+
+.ffww__vector-31 {
+	position: absolute;
+	width: 2.16px;
+	height: 21.62px;
+	left: 1151.87px;
+	top: 790.37px;
+	background: #19D893;
+}
+
+
+/* Vector */
+
+.ffww__vector-32 {
+	position: absolute;
+	width: 12.95px;
+	height: 2.16px;
+	left: 1153.38px;
+	top: 811.98px;
+	background: #04AF76;
+}
+
+
+/* Vector */
+
+.ffww__vector-33 {
+	position: absolute;
+	width: 28.92px;
+	height: 19.46px;
+	left: 1138.49px;
+	top: 732px;
+	background: #ED5B3A;
+}
+
+
+/* Vector */
+
+.ffww__vector-34 {
+	position: absolute;
+	width: 18.77px;
+	height: 19.46px;
+	left: 1148.63px;
+	top: 732px;
+	background: #890606;
+}
+
+
+/* Group 16 */
+
+.ffww__group-16 {
+	position: absolute;
+	width: 886px;
+	height: 333px;
+	left: 277px;
+	top: 1515px;
+}
+
+
+/* Group 2 */
+
+.ffww__group-2 {
+	position: absolute;
+	width: 505px;
+	height: 333px;
+	left: 277px;
+	top: 1515px;
+}
+
+
+/* Multinational insurance you can rely on. */
+
+.ffww__multinational-insuranc {
+	position: absolute;
+	width: 505px;
+	height: 88px;
+	left: 277px;
+	top: 1515px;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: normal;
+	line-height: normal;
+	font-size: 31px;
+	text-align: right;
+	color: #4F4F4F;
+}
+
+
+/* Scrambling to find your policies? Unsure when your next payment is due? Wondering where your claim is at? This is your information and we make it available to you anytime, anywhere. Everything you need in one simple to use and handsomely laid out digital platform. */
+
+.ffww__scrambling-to-find-you {
+	position: absolute;
+	width: 500px;
+	height: 239px;
+	left: 277px;
+	top: 1609px;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: 300;
+	line-height: 29px;
+	font-size: 21px;
+	text-align: right;
+	color: #000000;
+}
+
+
+/* Group 12 */
+
+.ffww__group-12 {
+	position: absolute;
+	width: 292px;
+	height: 276.13px;
+	left: 871px;
+	top: 1535px;
+}
+
+
+/* Group 10.2 */
+
+.ffww__group-10-2 {
+	position: absolute;
+	width: 292px;
+	height: 276.13px;
+	left: 871px;
+	top: 1535px;
+	background: #ECF5FD;
+}
+
+
+/* Rectangle 6.2 */
+
+.ffww__rectangle-6-2 {
+	position: absolute;
+	width: 292px;
+	height: 276.13px;
+	left: 871px;
+	top: 1535px;
+	background: #ECF5FD;
+	box-shadow: 0px 4px 26px rgba(0, 0, 0, 0.05);
+}
+
+
+/* Rectangle 7 */
+
+.ffww__rectangle-7-1 {
+	position: absolute;
+	width: 70.88px;
+	height: 276.13px;
+	left: 871px;
+	top: 1535px;
+}
+
+
+/* Secondary Button */
+
+.ffww__secondary-button-2 {
+	background: #0093EE;
+}
+
+
+/* notifications */
+
+.ffww__notifications-3 {
+	position: absolute;
+	width: 154.46px;
+	height: 24.57px;
+	left: 971.51px;
+	top: 1546.79px;
+	font-family: Avenir;
+	line-height: normal;
+	font-size: 18px;
+	text-align: center;
+	letter-spacing: 0.5px;
+	color: #4F4F4F;
+}
+
+
+/* notifications */
+
+.ffww__notifications-4 {
+	position: absolute;
+	width: 0px;
+	height: 24.57px;
+	left: 953.52px;
+	top: 1580.2px;
+	font-family: Avenir;
+	line-height: normal;
+	font-size: 18px;
+	letter-spacing: 0.5px;
+	color: #4F4F4F;
+}
+
+
+/* Rectangle 12.8 */
+
+.ffww__rectangle-12-8 {
+	position: absolute;
+	width: 56.07px;
+	height: 40.29px;
+	left: 879.46px;
+	top: 1542.86px;
+	background: rgba(255, 255, 255, 0.33);
+}
+
+
+/* Fill 48 */
+
+.ffww__fill-48 {
+	position: absolute;
+	width: 37.03px;
+	height: 38.32px;
+	left: 887.93px;
+	top: 1544.83px;
+	background: url("/images/fill-48.png");
+}
+
+
+/* Rectangle 12.1 */
+
+.ffww__rectangle-12-1 {
+	position: absolute;
+	width: 46.55px;
+	height: 7.86px;
+	left: 879.46px;
+	top: 1609.68px;
+	background: rgba(255, 255, 255, 0.33);
+}
+
+
+/* Rectangle 12.3 */
+
+.ffww__rectangle-12-3 {
+	position: absolute;
+	width: 51.84px;
+	height: 7.86px;
+	left: 879.46px;
+	top: 1623.44px;
+	background: rgba(255, 255, 255, 0.33);
+}
+
+
+/* Rectangle 12.4 */
+
+.ffww__rectangle-12-4 {
+	position: absolute;
+	width: 41.26px;
+	height: 7.86px;
+	left: 879.46px;
+	top: 1637.2px;
+	background: rgba(255, 255, 255, 0.33);
+}
+
+
+/* Rectangle 12.5 */
+
+.ffww__rectangle-12-5 {
+	position: absolute;
+	width: 51.84px;
+	height: 7.86px;
+	left: 879.46px;
+	top: 1649.97px;
+	background: rgba(255, 255, 255, 0.33);
+}
+
+
+/* Rectangle 12.6 */
+
+.ffww__rectangle-12-6 {
+	position: absolute;
+	width: 28.57px;
+	height: 7.86px;
+	left: 879.46px;
+	top: 1663.73px;
+	background: rgba(255, 255, 255, 0.33);
+}
+
+
+/* Rectangle 12.7 */
+
+.ffww__rectangle-12-7 {
+	position: absolute;
+	width: 51.84px;
+	height: 7.86px;
+	left: 879.46px;
+	top: 1677.49px;
+	background: rgba(255, 255, 255, 0.33);
+}
+
+
+/* notifications */
+
+.ffww__notifications-5 {
+	position: absolute;
+	width: 19.04px;
+	height: 12.77px;
+	left: 879.46px;
+	top: 1592px;
+	font-family: Avenir;
+	line-height: normal;
+	font-size: 9px;
+	letter-spacing: 0.5px;
+	color: #FFFFFF;
+}
+
+
+/* Group 11 */
+
+.ffww__group-11 {
+	position: absolute;
+	width: 181.97px;
+	height: 60.3px;
+	left: 963.04px;
+	top: 1584.72px;
+}
+
+
+/* Rectangle 13.1 */
+
+.ffww__rectangle-13-1 {
+	position: absolute;
+	width: 181.97px;
+	height: 60.3px;
+	left: 963.04px;
+	top: 1584.72px;
+	background: #FFFFFF;
+	border: 1px solid #E0E0E0;
+	box-sizing: border-box;
+	box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.08);
+}
+
+
+/* notifications */
+
+.ffww__notifications-6 {
+	position: absolute;
+	width: 170.33px;
+	height: 13.75px;
+	left: 971.51px;
+	top: 1592.13px;
+	font-family: Avenir;
+	line-height: normal;
+	font-size: 9px;
+	letter-spacing: 0.5px;
+	color: #4F4F4F;
+}
+
+
+/* Rectangle 12.9 */
+
+.ffww__rectangle-12-9 {
+	position: absolute;
+	width: 63.65px;
+	height: 6.35px;
+	left: 971.51px;
+	top: 1614.35px;
+	background: rgba(0, 0, 0, 0.06);
+}
+
+
+/* Rectangle 12.10 */
+
+.ffww__rectangle-12-10 {
+	position: absolute;
+	width: 70.88px;
+	height: 6.35px;
+	left: 971.51px;
+	top: 1625.46px;
+	background: rgba(0, 0, 0, 0.06);
+}
+
+
+/* Group 11.1 */
+
+.ffww__group-11-1 {
+	position: absolute;
+	width: 181.97px;
+	height: 60.3px;
+	left: 963.04px;
+	top: 1653.49px;
+}
+
+
+/* Rectangle 13.1 */
+
+.ffww__rectangle-13-1-1 {
+	position: absolute;
+	width: 181.97px;
+	height: 60.3px;
+	left: 963.04px;
+	top: 1653.49px;
+	background: #FFFFFF;
+	border: 1px solid #E0E0E0;
+	box-sizing: border-box;
+	box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.08);
+}
+
+
+/* notifications */
+
+.ffww__notifications-7 {
+	position: absolute;
+	width: 166.62px;
+	height: 13.75px;
+	left: 971.81px;
+	top: 1660.9px;
+	font-family: Avenir;
+	line-height: normal;
+	font-size: 9px;
+	letter-spacing: 0.5px;
+	color: #4F4F4F;
+}
+
+
+/* Rectangle 12.9 */
+
+.ffww__rectangle-12-9-1 {
+	position: absolute;
+	width: 65.95px;
+	height: 6.35px;
+	left: 971.81px;
+	top: 1683.12px;
+	background: rgba(0, 0, 0, 0.06);
+}
+
+
+/* Rectangle 12.10 */
+
+.ffww__rectangle-12-10-1 {
+	position: absolute;
+	width: 73.45px;
+	height: 6.35px;
+	left: 971.81px;
+	top: 1694.22px;
+	background: rgba(0, 0, 0, 0.06);
+}
+
+
+/* Group 11.2 */
+
+.ffww__group-11-2 {
+	position: absolute;
+	width: 181.97px;
+	height: 69.83px;
+	left: 963.04px;
+	top: 1722.26px;
+}
+
+
+/* Rectangle 13.1 */
+
+.ffww__rectangle-13-1-2 {
+	position: absolute;
+	width: 181.97px;
+	height: 69.83px;
+	left: 963.04px;
+	top: 1722.26px;
+	background: #FFFFFF;
+	border: 1px solid #E0E0E0;
+	box-sizing: border-box;
+	box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.08);
+}
+
+
+/* notifications */
+
+.ffww__notifications-8 {
+	position: absolute;
+	width: 166.62px;
+	height: 13.75px;
+	left: 971.81px;
+	top: 1729.67px;
+	font-family: Avenir;
+	line-height: normal;
+	font-size: 9px;
+	letter-spacing: 0.5px;
+	color: #4F4F4F;
+}
+
+
+/* Rectangle 12.9 */
+
+.ffww__rectangle-12-9-2 {
+	position: absolute;
+	width: 17.54px;
+	height: 11.64px;
+	left: 971.81px;
+	top: 1751.88px;
+	background: rgba(0, 0, 0, 0.06);
+}
+
+
+/* Rectangle 12.10 */
+
+.ffww__rectangle-12-10-2 {
+	position: absolute;
+	width: 17.54px;
+	height: 11.64px;
+	left: 995.93px;
+	top: 1751.88px;
+	background: rgba(0, 0, 0, 0.06);
+}
+
+
+/* Rectangle 12.11 */
+
+.ffww__rectangle-12-11 {
+	position: absolute;
+	width: 17.54px;
+	height: 11.64px;
+	left: 1020.05px;
+	top: 1751.88px;
+	background: rgba(0, 0, 0, 0.06);
+}
+
+
+/* Rectangle 12.12 */
+
+.ffww__rectangle-12-12 {
+	position: absolute;
+	width: 17.54px;
+	height: 11.64px;
+	left: 1071.57px;
+	top: 1750.83px;
+	background: rgba(0, 0, 0, 0.06);
+}
+
+
+/* Rectangle 12.14 */
+
+.ffww__rectangle-12-14 {
+	position: absolute;
+	width: 17.54px;
+	height: 11.64px;
+	left: 1095.68px;
+	top: 1750.83px;
+	background: rgba(0, 0, 0, 0.06);
+}
+
+
+/* Rectangle 12.13 */
+
+.ffww__rectangle-12-13 {
+	position: absolute;
+	width: 17.54px;
+	height: 11.64px;
+	left: 1071.57px;
+	top: 1767.75px;
+	background: rgba(0, 0, 0, 0.06);
+}
+
+
+/* Group 2 */
+
+.ffww__group-2-1 {
+	position: absolute;
+	width: 42.32px;
+	height: 17.99px;
+	left: 1093.17px;
+	top: 1619.64px;
+}
+
+
+/* Group */
+
+.ffww__group-9 {
+	position: absolute;
+	width: 42.32px;
+	height: 17.99px;
+	left: 1093.17px;
+	top: 1619.64px;
+}
+
+
+/* Rectangle */
+
+.ffww__rectangle-4 {
+	position: absolute;
+	width: 42.32px;
+	height: 17.99px;
+	left: 1093.17px;
+	top: 1619.64px;
+	background: #FFFFFF;
+	border: 0.25px solid #0093EE;
+	box-sizing: border-box;
+	border-radius: 5px;
+}
+
+
+/* Manage */
+
+.ffww__manage {
+	position: absolute;
+	width: 42.32px;
+	height: 17.99px;
+	left: 1093.17px;
+	top: 1619.64px;
+	font-family: Avenir;
+	line-height: normal;
+	font-size: 6px;
+	text-align: center;
+	color: #0093EE;
+}
+
+
+/* Secondary Button */
+
+.ffww__secondary-button-3 {}
+
+
+/* Group 2.4 */
+
+.ffww__group-2-4 {
+	position: absolute;
+	width: 42.32px;
+	height: 17.99px;
+	left: 1093.17px;
+	top: 1686.29px;
+}
+
+
+/* Group */
+
+.ffww__group-10 {
+	position: absolute;
+	width: 42.32px;
+	height: 17.99px;
+	left: 1093.17px;
+	top: 1686.29px;
+}
+
+
+/* Rectangle */
+
+.ffww__rectangle-5 {
+	position: absolute;
+	width: 42.32px;
+	height: 17.99px;
+	left: 1093.17px;
+	top: 1686.29px;
+	background: #FFFFFF;
+	border: 0.25px solid #0093EE;
+	box-sizing: border-box;
+	border-radius: 5px;
+}
+
+
+/* Manage */
+
+.ffww__manage-1 {
+	position: absolute;
+	width: 42.32px;
+	height: 17.99px;
+	left: 1093.17px;
+	top: 1686.29px;
+	font-family: Avenir;
+	line-height: normal;
+	font-size: 6px;
+	text-align: center;
+	color: #0093EE;
+}
+
+
+/* Secondary Button */
+
+.ffww__secondary-button-4 {}
+
+
+/* Line 2 */
+
+.ffww__line-2 {
+	position: absolute;
+	width: 34.91px;
+	height: 0px;
+	left: 990.55px;
+	top: 1749.77px;
+	border: 1px solid #F0F0F0;
+	transform: rotate(90deg);
+}
+
+
+/* Line 2.1 */
+
+.ffww__line-2-1 {
+	position: absolute;
+	width: 34.93px;
+	height: 0px;
+	left: 1014.88px;
+	top: 1749.77px;
+	border: 1px solid #F0F0F0;
+	transform: matrix(0.03, 1, -1, 0, 0, 0);
+}
+
+
+/* Line 2.2 */
+
+.ffww__line-2-2 {
+	position: absolute;
+	width: 34.93px;
+	height: 0px;
+	left: 1039.22px;
+	top: 1749.77px;
+	border: 1px solid #F0F0F0;
+	transform: matrix(0.03, 1, -1, 0, 0, 0);
+}
+
+
+/* Line 2.3 */
+
+.ffww__line-2-3 {
+	position: absolute;
+	width: 34.91px;
+	height: 0px;
+	left: 1063.55px;
+	top: 1749.77px;
+	border: 1px solid #F0F0F0;
+	transform: rotate(90deg);
+}
+
+
+/* Line 2.4 */
+
+.ffww__line-2-4 {
+	position: absolute;
+	width: 34.93px;
+	height: 0px;
+	left: 1087.88px;
+	top: 1749.77px;
+	border: 1px solid #F0F0F0;
+	transform: matrix(0.03, 1, -1, 0, 0, 0);
+}
+
+
+/* Line 2.5 */
+
+.ffww__line-2-5 {
+	position: absolute;
+	width: 34.93px;
+	height: 0px;
+	left: 1112.22px;
+	top: 1749.77px;
+	border: 1px solid #F0F0F0;
+	transform: matrix(0.03, 1, -1, 0, 0, 0);
+}
+
+
+/* Group 15 */
+
+.ffww__group-15 {
+	position: absolute;
+	width: 960px;
+	height: 257.94px;
+	left: 277px;
+	top: 1946px;
+}
+
+
+/* Group 3.2 */
+
+.ffww__group-3-2 {
+	position: absolute;
+	width: 563px;
+	height: 197px;
+	left: 674px;
+	top: 1946px;
+}
+
+
+/* Be confident in your choices. */
+
+.ffww__be-confident-in-your-c {
+	position: absolute;
+	width: 563px;
+	height: 38px;
+	left: 674px;
+	top: 1946px;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: normal;
+	line-height: normal;
+	font-size: 31px;
+	color: #4F4F4F;
+}
+
+
+/* There is no room for mistakes – gaps in coverage, outdated regulatory requirements or missing documentation. We deliver a modern, data-driven, digital platform that provides accurate information pro-actively and in real-time. */
+
+.ffww__there-is-no-room-for-m {
+	position: absolute;
+	width: 490px;
+	height: 145px;
+	left: 675px;
+	top: 1998px;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: 300;
+	line-height: 29px;
+	font-size: 21px;
+	color: #4F4F4F;
+}
+
+
+/* Group 2 */
+
+.ffww__group-2-2 {
+	position: absolute;
+	width: 291px;
+	height: 249.94px;
+	left: 277px;
+	top: 1954px;
+}
+
+
+/* Rectangle 6.2 */
+
+.ffww__rectangle-6-2-1 {
+	position: absolute;
+	width: 291px;
+	height: 249.94px;
+	left: 277px;
+	top: 1954px;
+	background: #8DABC4;
+	box-shadow: 0px 4px 26px rgba(0, 0, 0, 0.05);
+}
+
+
+/* Rectangle 7 */
+
+.ffww__rectangle-7-2 {
+	position: absolute;
+	width: 291px;
+	height: 20.53px;
+	left: 277px;
+	top: 1954px;
+}
+
+
+/* Secondary Button */
+
+.ffww__secondary-button-5 {
+	background: #0093EE;
+}
+
+
+/* Buttons / Close White */
+
+.ffww__buttons-close-white-2 {
+	position: absolute;
+	width: 9.82px;
+	height: 9.82px;
+	left: 551.04px;
+	top: 1959.36px;
+}
+
+
+/* Buttons / Close White */
+
+.ffww__buttons-close-white-3 {
+	position: absolute;
+	left: 0%;
+	right: 0%;
+	top: 0%;
+	bottom: 0%;
+}
+
+
+/* Icon */
+
+.ffww__icon-1 {
+	position: absolute;
+	left: 0%;
+	right: 0%;
+	top: 0%;
+	bottom: 0%;
+	background: #FFFFFF;
+}
+
+
+/* notifications */
+
+.ffww__notifications-9 {
+	position: absolute;
+	width: 271.36px;
+	height: 20.53px;
+	left: 277px;
+	top: 1954px;
+	font-family: Avenir;
+	line-height: normal;
+	font-size: 12px;
+	text-align: center;
+	letter-spacing: 0.5px;
+	color: #FFFFFF;
+}
+
+
+/* notifications */
+
+.ffww__notifications-10 {
+	position: absolute;
+	width: 0px;
+	height: 20.73px;
+	left: 346.62px;
+	top: 1992.14px;
+	font-family: Avenir;
+	line-height: normal;
+	font-size: 18px;
+	letter-spacing: 0.5px;
+	color: #4F4F4F;
+}
+
+
+/* Rectangle 12.8 */
+
+.ffww__rectangle-12-8-1 {
+	position: absolute;
+	width: 291px;
+	height: 38.38px;
+	left: 277px;
+	top: 1974.53px;
+	background: #F8F8F8;
+}
+
+
+/* Rectangle 13.1 */
+
+.ffww__rectangle-13-1-3 {
+	position: absolute;
+	width: 239.23px;
+	height: 153.53px;
+	left: 298.42px;
+	top: 2028.09px;
+	background: #FFFFFF;
+	border: 1px solid #E0E0E0;
+	box-sizing: border-box;
+	box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.08);
+}
+
+
+/* notifications */
+
+.ffww__notifications-11 {
+	position: absolute;
+	width: 135.68px;
+	height: 11.6px;
+	left: 315.38px;
+	top: 1981.67px;
+	font-family: Avenir;
+	line-height: normal;
+	font-size: 9px;
+	letter-spacing: 0.5px;
+	color: #4F4F4F;
+}
+
+
+/* notifications */
+
+.ffww__notifications-12 {
+	position: absolute;
+	width: 207.98px;
+	height: 90.16px;
+	left: 313.6px;
+	top: 2041.48px;
+	font-family: Avenir;
+	line-height: 15px;
+	font-size: 9px;
+	letter-spacing: 0.5px;
+	color: #4F4F4F;
+}
+
+
+/* Rectangle 12.10 */
+
+.ffww__rectangle-12-10-3 {
+	position: absolute;
+	width: 59.81px;
+	height: 5.36px;
+	left: 315.38px;
+	top: 1996.85px;
+	background: rgba(0, 0, 0, 0.06);
+}
+
+
+/* Rectangle 12.15 */
+
+.ffww__rectangle-12-15 {
+	position: absolute;
+	width: 59.81px;
+	height: 5.36px;
+	left: 496.59px;
+	top: 1984.35px;
+	background: rgba(0, 0, 0, 0.06);
+}
+
+
+/* Rectangle 12.16 */
+
+.ffww__rectangle-12-16 {
+	position: absolute;
+	width: 38.38px;
+	height: 5.36px;
+	left: 518.01px;
+	top: 1996.85px;
+	background: rgba(0, 0, 0, 0.06);
+}
+
+
+/* if_mail-24_103176 */
+
+.ffww__if_mail-24_103176 {
+	position: absolute;
+	width: 11.6px;
+	height: 8.03px;
+	left: 284.14px;
+	top: 1960.25px;
+}
+
+
+/* Vector */
+
+.ffww__vector-35 {
+	position: absolute;
+	width: 11.6px;
+	height: 8.03px;
+	left: 284.14px;
+	top: 1960.25px;
+	background: #FFFFFF;
+}
+
+
+/* Ellipse */
+
+.ffww__ellipse {
+	position: absolute;
+	width: 22.32px;
+	height: 22.32px;
+	left: 284.14px;
+	top: 1981.67px;
+	background: #C4C4C4;
+}
+
+
+/* Group 2 */
+
+.ffww__group-2-3 {
+	position: absolute;
+	width: 81.23px;
+	height: 23.21px;
+	left: 315.38px;
+	top: 2144.13px;
+}
+
+
+/* Rectangle */
+
+.ffww__rectangle-6 {
+	position: absolute;
+	width: 81.23px;
+	height: 23.21px;
+	left: 315.38px;
+	top: 2144.13px;
+}
+
+
+/* Secondary Button */
+
+.ffww__secondary-button-6 {
+	background: #0093EE;
+	border: 1px solid #0093EE;
+	box-sizing: border-box;
+	border-radius: 3px;
+}
+
+
+/* View Changes */
+
+.ffww__view-changes {
+	position: absolute;
+	width: 81.23px;
+	height: 23.21px;
+	left: 315.38px;
+	top: 2144.13px;
+	font-family: Avenir;
+	line-height: normal;
+	font-size: 10px;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+
+/* Sidebar */
+
+.ffww__sidebar {}
+
+
+/* Group 14 */
+
+.ffww__group-14-1 {
+	position: absolute;
+	width: 887.95px;
+	height: 245.24px;
+	left: 277px;
+	top: 2301px;
+}
+
+
+/* Move faster. */
+
+.ffww__move-faster {
+	position: absolute;
+	width: 292px;
+	height: 38px;
+	left: 476px;
+	top: 2301px;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: normal;
+	line-height: normal;
+	font-size: 31px;
+	text-align: right;
+	color: #4F4F4F;
+}
+
+
+/* We know your customers expect you to be responsive, so why shouldn’t your insurance provider? Digital estimates, quotes and policy issuance at the speed you need it. No more delayed responses. */
+
+.ffww__we-know-your-customers {
+	position: absolute;
+	width: 500px;
+	height: 116px;
+	left: 277px;
+	top: 2356px;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: 300;
+	line-height: 29px;
+	font-size: 21px;
+	text-align: right;
+	color: #000000;
+}
+
+
+/* Group 6 */
+
+.ffww__group-6 {
+	position: absolute;
+	width: 293.95px;
+	height: 236.24px;
+	left: 871px;
+	top: 2310px;
+}
+
+
+/* Rectangle 6.2 */
+
+.ffww__rectangle-6-2-2 {
+	position: absolute;
+	width: 293.05px;
+	height: 235.34px;
+	left: 871px;
+	top: 2310.9px;
+	background: #ECF5FD;
+	box-shadow: 0px 4px 26px rgba(0, 0, 0, 0.05);
+}
+
+
+/* Rectangle 6.3 */
+
+.ffww__rectangle-6-3-1 {
+	position: absolute;
+	width: 293.05px;
+	height: 235.34px;
+	left: 871px;
+	top: 2310.9px;
+	background: #ECF5FD;
+	box-shadow: 0px 4px 26px rgba(0, 0, 0, 0.05);
+}
+
+
+/* notifications */
+
+.ffww__notifications-13 {
+	position: absolute;
+	width: 0px;
+	height: 20.94px;
+	left: 953.82px;
+	top: 2349.43px;
+	font-family: Avenir;
+	line-height: normal;
+	font-size: 18px;
+	letter-spacing: 0.5px;
+	color: #4F4F4F;
+}
+
+
+/* Group 11.2 */
+
+.ffww__group-11-2-1 {
+	position: absolute;
+	width: 242.55px;
+	height: 26.15px;
+	left: 893.54px;
+	top: 2365.9px;
+}
+
+
+/* Group */
+
+.ffww__group-11 {
+	position: absolute;
+	width: 242.55px;
+	height: 26.15px;
+	left: 893.54px;
+	top: 2365.9px;
+}
+
+
+/* Rectangle 13.1 */
+
+.ffww__rectangle-13-1-4 {
+	position: absolute;
+	width: 242.55px;
+	height: 26.15px;
+	left: 893.54px;
+	top: 2365.9px;
+	background: #FFFFFF;
+	border: 1px solid #E0E0E0;
+	box-sizing: border-box;
+	border-radius: 2px;
+}
+
+
+/* notifications */
+
+.ffww__notifications-14 {
+	position: absolute;
+	width: 161.39px;
+	height: 12.62px;
+	left: 900.23px;
+	top: 2372.22px;
+	font-family: Avenir;
+	line-height: normal;
+	font-size: 10px;
+	letter-spacing: 0.5px;
+	color: #8DABC4;
+	border-radius: 2px;
+}
+
+
+/* Icon */
+
+.ffww__icon-2 {
+	position: absolute;
+	left: 77.45%;
+	right: 21.74%;
+	top: 47.96%;
+	bottom: 51.79%;
+}
+
+
+/* Labels and Helptext */
+
+.ffww__labels-and-helptext {
+	background: #8DABC4;
+}
+
+
+/* Path */
+
+.ffww__path {
+	position: absolute;
+	left: 77.45%;
+	right: 21.74%;
+	top: 47.96%;
+	bottom: 51.79%;
+	background: #DADADA;
+}
+
+
+/* Path */
+
+.ffww__path-1 {
+	position: absolute;
+	left: 77.54%;
+	right: 22%;
+	top: 47.99%;
+	bottom: 51.87%;
+	background: #DADADA;
+}
+
+
+/* Group 3 */
+
+.ffww__group-3-1 {
+	position: absolute;
+	width: 81.15px;
+	height: 63.12px;
+	left: 881.82px;
+	top: 2409.19px;
+}
+
+
+/* Rectangle 13.1 */
+
+.ffww__rectangle-13-1-5 {
+	position: absolute;
+	width: 81.15px;
+	height: 63.12px;
+	left: 881.82px;
+	top: 2409.19px;
+	background: #FFFFFF;
+	border: 1px solid #E0E0E0;
+	box-sizing: border-box;
+	box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.08);
+}
+
+
+/* notifications */
+
+.ffww__notifications-15 {
+	position: absolute;
+	width: 74.84px;
+	height: 11.72px;
+	left: 888.13px;
+	top: 2432.63px;
+	font-family: Avenir;
+	line-height: normal;
+	font-size: 9px;
+	letter-spacing: 0.5px;
+	color: #4F4F4F;
+}
+
+
+/* Rectangle 12.9 */
+
+.ffww__rectangle-12-9-3 {
+	position: absolute;
+	width: 45.08px;
+	height: 5.41px;
+	left: 888.13px;
+	top: 2449.76px;
+	background: rgba(0, 0, 0, 0.06);
+}
+
+
+/* Rectangle 12.10 */
+
+.ffww__rectangle-12-10-4 {
+	position: absolute;
+	width: 62.22px;
+	height: 5.41px;
+	left: 888.13px;
+	top: 2459.68px;
+	background: rgba(0, 0, 0, 0.06);
+}
+
+
+/* Buttons / Close White */
+
+.ffww__buttons-close-white-4 {
+	position: absolute;
+	width: 6.31px;
+	height: 6.31px;
+	left: 948.54px;
+	top: 2417.3px;
+}
+
+
+/* Buttons / Close White */
+
+.ffww__buttons-close-white-5 {
+	position: absolute;
+	left: 0%;
+	right: 0%;
+	top: 0%;
+	bottom: 0%;
+}
+
+
+/* Icon */
+
+.ffww__icon-3 {
+	position: absolute;
+	left: 0%;
+	right: 0%;
+	top: 0%;
+	bottom: 0%;
+	background: #E0E0E0;
+}
+
+
+/* colombia-flag-icon-256 */
+
+.ffww__colombia-flag-icon-256-1 {
+	position: absolute;
+	width: 18.94px;
+	height: 12.62px;
+	left: 888.13px;
+	top: 2415.5px;
+	background: url(colombia-flag-icon-256.png);
+	border-radius: 3px;
+}
+
+
+/* Group 4 */
+
+.ffww__group-4-1 {
+	position: absolute;
+	width: 81.15px;
+	height: 63.12px;
+	left: 974.69px;
+	top: 2409.19px;
+}
+
+
+/* Rectangle 13.2 */
+
+.ffww__rectangle-13-2 {
+	position: absolute;
+	width: 81.15px;
+	height: 63.12px;
+	left: 974.69px;
+	top: 2409.19px;
+	background: #FFFFFF;
+	border: 1px solid #E0E0E0;
+	box-sizing: border-box;
+	box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.08);
+}
+
+
+/* notifications */
+
+.ffww__notifications-16 {
+	position: absolute;
+	width: 74.84px;
+	height: 11.72px;
+	left: 981px;
+	top: 2432.63px;
+	font-family: Avenir;
+	line-height: normal;
+	font-size: 9px;
+	letter-spacing: 0.5px;
+	color: #4F4F4F;
+}
+
+
+/* Rectangle 12.15 */
+
+.ffww__rectangle-12-15-1 {
+	position: absolute;
+	width: 45.08px;
+	height: 5.41px;
+	left: 981px;
+	top: 2449.76px;
+	background: rgba(0, 0, 0, 0.06);
+}
+
+
+/* Rectangle 12.16 */
+
+.ffww__rectangle-12-16-1 {
+	position: absolute;
+	width: 62.22px;
+	height: 5.41px;
+	left: 981px;
+	top: 2459.68px;
+	background: rgba(0, 0, 0, 0.06);
+}
+
+
+/* Buttons / Close White */
+
+.ffww__buttons-close-white-6 {
+	position: absolute;
+	width: 6.31px;
+	height: 6.31px;
+	left: 1041.42px;
+	top: 2417.3px;
+}
+
+
+/* Buttons / Close White */
+
+.ffww__buttons-close-white-7 {
+	position: absolute;
+	left: 0%;
+	right: 0%;
+	top: 0%;
+	bottom: 0%;
+}
+
+
+/* Icon */
+
+.ffww__icon-4 {
+	position: absolute;
+	left: 0%;
+	right: 0%;
+	top: 0%;
+	bottom: 0%;
+	background: #E0E0E0;
+}
+
+
+/* hungary-flag-icon-256 */
+
+.ffww__hungary-flag-icon-256 {
+	position: absolute;
+	width: 19.84px;
+	height: 12.62px;
+	left: 981px;
+	top: 2415.5px;
+	background: url("/images/hungary-flag-icon-256.png");
+	border-radius: 3px;
+}
+
+
+/* Group 5 */
+
+.ffww__group-5 {
+	position: absolute;
+	width: 81.15px;
+	height: 63.12px;
+	left: 1067.57px;
+	top: 2409.19px;
+}
+
+
+/* Rectangle 13.3 */
+
+.ffww__rectangle-13-3-1 {
+	position: absolute;
+	width: 81.15px;
+	height: 63.12px;
+	left: 1067.57px;
+	top: 2409.19px;
+	background: #FFFFFF;
+	border: 1px solid #E0E0E0;
+	box-sizing: border-box;
+	box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.08);
+}
+
+
+/* notifications */
+
+.ffww__notifications-17 {
+	position: absolute;
+	width: 74.84px;
+	height: 11.72px;
+	left: 1073.88px;
+	top: 2432.63px;
+	font-family: Avenir;
+	line-height: normal;
+	font-size: 9px;
+	letter-spacing: 0.5px;
+	color: #4F4F4F;
+}
+
+
+/* Rectangle 12.17 */
+
+.ffww__rectangle-12-17-1 {
+	position: absolute;
+	width: 45.08px;
+	height: 5.41px;
+	left: 1073.88px;
+	top: 2449.76px;
+	background: rgba(0, 0, 0, 0.06);
+}
+
+
+/* Rectangle 12.18 */
+
+.ffww__rectangle-12-18-1 {
+	position: absolute;
+	width: 62.22px;
+	height: 5.41px;
+	left: 1073.88px;
+	top: 2459.68px;
+	background: rgba(0, 0, 0, 0.06);
+}
+
+
+/* Buttons / Close White */
+
+.ffww__buttons-close-white-8 {
+	position: absolute;
+	width: 6.31px;
+	height: 6.31px;
+	left: 1134.29px;
+	top: 2417.3px;
+}
+
+
+/* Buttons / Close White */
+
+.ffww__buttons-close-white-9 {
+	position: absolute;
+	left: 0%;
+	right: 0%;
+	top: 0%;
+	bottom: 0%;
+}
+
+
+/* Icon */
+
+.ffww__icon-5 {
+	position: absolute;
+	left: 0%;
+	right: 0%;
+	top: 0%;
+	bottom: 0%;
+	background: #E0E0E0;
+}
+
+
+/* image 6 */
+
+.ffww__image-6-1 {
+	position: absolute;
+	width: 18.84px;
+	height: 12.62px;
+	left: 1074.78px;
+	top: 2415.5px;
+	background: url("/images/singapore-flag.png");
+	border: 0.25px solid #8DABC4;
+	box-sizing: border-box;
+	border-radius: 3px;
+}
+
+
+/* Group 2 */
+
+.ffww__group-2-4 {
+	position: absolute;
+	width: 91.97px;
+	height: 23.44px;
+	left: 969.28px;
+	top: 2494.84px;
+}
+
+
+/* Rectangle */
+
+.ffww__rectangle-7 {
+	position: absolute;
+	width: 91.97px;
+	height: 23.44px;
+	left: 969.28px;
+	top: 2494.84px;
+}
+
+
+/* Secondary Button */
+
+.ffww__secondary-button-7 {
+	background: #0093EE;
+	border: 1px solid #0093EE;
+	box-sizing: border-box;
+	border-radius: 3px;
+}
+
+
+/* Generate Estimate */
+
+.ffww__generate-estimate {
+	position: absolute;
+	width: 91.97px;
+	height: 23.44px;
+	left: 969.28px;
+	top: 2494.84px;
+	font-family: Avenir;
+	line-height: normal;
+	font-size: 10px;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+
+/* Sidebar */
+
+.ffww__sidebar-1 {}
+
+
+/* Rectangle 7 */
+
+.ffww__rectangle-7-3 {
+	position: absolute;
+	width: 293.95px;
+	height: 31.56px;
+	left: 871px;
+	top: 2310px;
+}
+
+
+/* Secondary Button */
+
+.ffww__secondary-button-8 {
+	background: #0093EE;
+}
+
+
+/* notifications */
+
+.ffww__notifications-18 {
+	position: absolute;
+	width: 266.9px;
+	height: 20.74px;
+	left: 881.82px;
+	top: 2314.51px;
+	font-family: Avenir;
+	line-height: normal;
+	font-size: 18px;
+	text-align: center;
+	letter-spacing: 0.5px;
+	color: #FFFFFF;
+}
+
+
+/* Group 13 */
+
+.ffww__group-13-2 {
+	position: absolute;
+	width: 886px;
+	height: 265.33px;
+	left: 277px;
+	top: 2644px;
+}
+
+
+/* Group 2 */
+
+.ffww__group-2-5 {
+	position: absolute;
+	width: 487px;
+	height: 264px;
+	left: 676px;
+	top: 2645.33px;
+}
+
+
+/* Boutique level service. */
+
+.ffww__boutique-level-service {
+	position: absolute;
+	width: 317px;
+	height: 38px;
+	left: 676px;
+	top: 2645.33px;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: normal;
+	line-height: normal;
+	font-size: 31px;
+	color: #4F4F4F;
+}
+
+
+/* We believe one-size doesn’t fit all for any of our customers. With our highly configurable and customizable insurance programs, we can work with you to tailor the policy that is right for you. Our multinational specialists work with our global underwriting and claims experts to deliver reliable service around the world. */
+
+.ffww__we-believe-one-size-do {
+	position: absolute;
+	width: 487px;
+	height: 203px;
+	left: 676px;
+	top: 2706.33px;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: 300;
+	line-height: 29px;
+	font-size: 21px;
+	color: #000000;
+}
+
+
+/* Group 2 */
+
+.ffww__group-2-6 {
+	position: absolute;
+	width: 291px;
+	height: 263.33px;
+	left: 277px;
+	top: 2644px;
+}
+
+
+/* Group 6.1 */
+
+.ffww__group-6-1-1 {
+	position: absolute;
+	width: 291px;
+	height: 263.33px;
+	left: 277px;
+	top: 2644px;
+}
+
+
+/* Rectangle 6.2 */
+
+.ffww__rectangle-6-2-3 {
+	position: absolute;
+	width: 290.11px;
+	height: 232.98px;
+	left: 277px;
+	top: 2644.89px;
+	background: #ECF5FD;
+	box-shadow: 0px 4px 26px rgba(0, 0, 0, 0.05);
+}
+
+
+/* Rectangle 6.3 */
+
+.ffww__rectangle-6-3-2 {
+	position: absolute;
+	width: 290.11px;
+	height: 262.44px;
+	left: 277px;
+	top: 2644.89px;
+	background: #ECF5FD;
+	box-shadow: 0px 4px 26px rgba(0, 0, 0, 0.05);
+}
+
+
+/* notifications */
+
+.ffww__notifications-19 {
+	position: absolute;
+	width: 0px;
+	height: 20.73px;
+	left: 358.99px;
+	top: 2683.03px;
+	font-family: Avenir;
+	line-height: normal;
+	font-size: 18px;
+	letter-spacing: 0.5px;
+	color: #4F4F4F;
+}
+
+
+/* Group 3 */
+
+.ffww__group-3-2 {
+	position: absolute;
+	width: 66.95px;
+	height: 51.77px;
+	left: 471.6px;
+	top: 2831.45px;
+}
+
+
+/* Rectangle 13.1 */
+
+.ffww__rectangle-13-1-6 {
+	position: absolute;
+	width: 66.95px;
+	height: 51.77px;
+	left: 471.6px;
+	top: 2831.45px;
+	background: #FFFFFF;
+	border: 1px solid #E0E0E0;
+	box-sizing: border-box;
+	box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.08);
+}
+
+
+/* notifications */
+
+.ffww__notifications-20 {
+	position: absolute;
+	width: 61.74px;
+	height: 9.61px;
+	left: 476.8px;
+	top: 2850.68px;
+	font-family: Avenir;
+	line-height: normal;
+	font-size: 9px;
+	letter-spacing: 0.5px;
+	color: #4F4F4F;
+}
+
+
+/* Rectangle 12.9 */
+
+.ffww__rectangle-12-9-4 {
+	position: absolute;
+	width: 37.19px;
+	height: 4.44px;
+	left: 476.8px;
+	top: 2864.74px;
+	background: rgba(0, 0, 0, 0.06);
+}
+
+
+/* Rectangle 12.10 */
+
+.ffww__rectangle-12-10-5 {
+	position: absolute;
+	width: 51.33px;
+	height: 4.44px;
+	left: 476.8px;
+	top: 2872.87px;
+	background: rgba(0, 0, 0, 0.06);
+}
+
+
+/* Buttons / Close White */
+
+.ffww__buttons-close-white-10 {
+	position: absolute;
+	width: 5.21px;
+	height: 5.18px;
+	left: 526.64px;
+	top: 2838.11px;
+}
+
+
+/* Buttons / Close White */
+
+.ffww__buttons-close-white-11 {
+	position: absolute;
+	left: 0%;
+	right: 0%;
+	top: 0%;
+	bottom: 0%;
+}
+
+
+/* Icon */
+
+.ffww__icon-6 {
+	position: absolute;
+	left: 0%;
+	right: 0%;
+	top: 0%;
+	bottom: 0%;
+	background: #E0E0E0;
+}
+
+
+/* colombia-flag-icon-256 */
+
+.ffww__colombia-flag-icon-256-2 {
+	position: absolute;
+	width: 15.62px;
+	height: 10.35px;
+	left: 476.8px;
+	top: 2836.63px;
+	background: url(colombia-flag-icon-256.png);
+	border-radius: 3px;
+}
+
+
+/* Group 4 */
+
+.ffww__group-4-2 {
+	position: absolute;
+	width: 67.84px;
+	height: 52.67px;
+	left: 471.6px;
+	top: 2765.4px;
+}
+
+
+/* Rectangle 13.2 */
+
+.ffww__rectangle-13-2-1 {
+	position: absolute;
+	width: 67.84px;
+	height: 52.67px;
+	left: 471.6px;
+	top: 2765.4px;
+	background: #FFFFFF;
+	border: 1px solid #E0E0E0;
+	box-sizing: border-box;
+	box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.08);
+}
+
+
+/* notifications */
+
+.ffww__notifications-21 {
+	position: absolute;
+	width: 62.56px;
+	height: 9.78px;
+	left: 476.87px;
+	top: 2784.96px;
+	font-family: Avenir;
+	line-height: normal;
+	font-size: 9px;
+	letter-spacing: 0.5px;
+	color: #4F4F4F;
+}
+
+
+/* Rectangle 12.15 */
+
+.ffww__rectangle-12-15-2 {
+	position: absolute;
+	width: 37.69px;
+	height: 4.51px;
+	left: 476.87px;
+	top: 2799.25px;
+	background: rgba(0, 0, 0, 0.06);
+}
+
+
+/* Rectangle 12.16 */
+
+.ffww__rectangle-12-16-2 {
+	position: absolute;
+	width: 52.01px;
+	height: 4.51px;
+	left: 476.87px;
+	top: 2807.53px;
+	background: rgba(0, 0, 0, 0.06);
+}
+
+
+/* Buttons / Close White */
+
+.ffww__buttons-close-white-12 {
+	position: absolute;
+	width: 5.28px;
+	height: 5.27px;
+	left: 527.38px;
+	top: 2772.17px;
+}
+
+
+/* Buttons / Close White */
+
+.ffww__buttons-close-white-13 {
+	position: absolute;
+	left: 0%;
+	right: 0%;
+	top: 0%;
+	bottom: 0%;
+}
+
+
+/* Icon */
+
+.ffww__icon-7 {
+	position: absolute;
+	left: 0%;
+	right: 0%;
+	top: 0%;
+	bottom: 0%;
+	background: #E0E0E0;
+}
+
+
+/* hungary-flag-icon-256 */
+
+.ffww__hungary-flag-icon-256-1 {
+	position: absolute;
+	width: 16.58px;
+	height: 10.53px;
+	left: 476.87px;
+	top: 2770.67px;
+	background: url(hungary-flag-icon-256.png);
+	border-radius: 3px;
+}
+
+
+/* Group 5 */
+
+.ffww__group-5-1 {
+	position: absolute;
+	width: 66.95px;
+	height: 51.77px;
+	left: 471.6px;
+	top: 2699.34px;
+}
+
+
+/* Rectangle 13.3 */
+
+.ffww__rectangle-13-3-2 {
+	position: absolute;
+	width: 66.95px;
+	height: 51.77px;
+	left: 471.6px;
+	top: 2699.34px;
+	background: #FFFFFF;
+	border: 1px solid #E0E0E0;
+	box-sizing: border-box;
+	box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.08);
+}
+
+
+/* notifications */
+
+.ffww__notifications-22 {
+	position: absolute;
+	width: 61.74px;
+	height: 9.61px;
+	left: 476.8px;
+	top: 2718.57px;
+	font-family: Avenir;
+	line-height: normal;
+	font-size: 9px;
+	letter-spacing: 0.5px;
+	color: #4F4F4F;
+}
+
+
+/* Rectangle 12.17 */
+
+.ffww__rectangle-12-17-2 {
+	position: absolute;
+	width: 37.19px;
+	height: 4.44px;
+	left: 476.8px;
+	top: 2732.63px;
+	background: rgba(0, 0, 0, 0.06);
+}
+
+
+/* Rectangle 12.18 */
+
+.ffww__rectangle-12-18-2 {
+	position: absolute;
+	width: 51.33px;
+	height: 4.44px;
+	left: 476.8px;
+	top: 2740.76px;
+	background: rgba(0, 0, 0, 0.06);
+}
+
+
+/* Buttons / Close White */
+
+.ffww__buttons-close-white-14 {
+	position: absolute;
+	width: 5.21px;
+	height: 5.18px;
+	left: 526.64px;
+	top: 2706px;
+}
+
+
+/* Buttons / Close White */
+
+.ffww__buttons-close-white-15 {
+	position: absolute;
+	left: 0%;
+	right: 0%;
+	top: 0%;
+	bottom: 0%;
+}
+
+
+/* Icon */
+
+.ffww__icon-8 {
+	position: absolute;
+	left: 0%;
+	right: 0%;
+	top: 0%;
+	bottom: 0%;
+	background: #E0E0E0;
+}
+
+
+/* image 6 */
+
+.ffww__image-6-2 {
+	position: absolute;
+	width: 15.55px;
+	height: 10.35px;
+	left: 477.54px;
+	top: 2704.52px;
+	background: url("/images/singapore-flag.png");
+	border: 0.25px solid #8DABC4;
+	box-sizing: border-box;
+	border-radius: 3px;
+}
+
+
+/* Group 2 */
+
+.ffww__group-2-7 {
+	position: absolute;
+	width: 91.05px;
+	height: 23.21px;
+	left: 331.45px;
+	top: 2841.27px;
+}
+
+
+/* Rectangle */
+
+.ffww__rectangle-8 {
+	position: absolute;
+	width: 91.05px;
+	height: 23.21px;
+	left: 331.45px;
+	top: 2841.27px;
+}
+
+
+/* Secondary Button */
+
+.ffww__secondary-button-9 {
+	background: #0093EE;
+	border: 1px solid #0093EE;
+	box-sizing: border-box;
+	border-radius: 3px;
+}
+
+
+/* Customize */
+
+.ffww__customize {
+	position: absolute;
+	width: 91.05px;
+	height: 23.21px;
+	left: 331.45px;
+	top: 2841.27px;
+	font-family: Avenir;
+	line-height: normal;
+	font-size: 10px;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+
+/* Sidebar */
+
+.ffww__sidebar-2 {}
+
+
+/* Rectangle 7 */
+
+.ffww__rectangle-7-4 {
+	position: absolute;
+	width: 291px;
+	height: 31.24px;
+	left: 277px;
+	top: 2644px;
+}
+
+
+/* Secondary Button */
+
+.ffww__secondary-button-10 {
+	background: #0093EE;
+}
+
+
+/* notifications */
+
+.ffww__notifications-23 {
+	position: absolute;
+	width: 264.22px;
+	height: 20.53px;
+	left: 287.71px;
+	top: 2648.46px;
+	font-family: Avenir;
+	line-height: normal;
+	font-size: 18px;
+	text-align: center;
+	letter-spacing: 0.5px;
+	color: #FFFFFF;
+}
+
+
+/* notifications */
+
+.ffww__notifications-24 {
+	position: absolute;
+	width: 158px;
+	height: 20.53px;
+	left: 297.53px;
+	top: 2699.34px;
+	font-family: Avenir;
+	line-height: normal;
+	font-size: 15px;
+	text-align: center;
+	letter-spacing: 0.5px;
+	color: #4F4F4F;
+}
+
+
+/* image 2 */
+
+.ffww__image-2 {
+	position: absolute;
+	width: 108.9px;
+	height: 93.73px;
+	left: 318.95px;
+	top: 2727.91px;
+	background: url("/images/graph.png");
+}
+
+
+/* fww-logo */
+
+.ffww__fww-logo {
+	position: absolute;
+	left: 4.65%;
+	right: 88.12%;
+	top: 0.04%;
+	bottom: 98.67%;
+	background: url(Fairfax-Worldwide-white.png);
+}
+
+
+/* Group 9 */
+
+.ffww__group-9 {
+	position: absolute;
+	width: 568px;
+	height: 549px;
+	left: 975px;
+	top: 89px;
+}
+
+
+/* Shadow */
+
+.ffww__shadow {
+	position: absolute;
+	left: -10.56%;
+	right: 10.56%;
+	top: 0%;
+	bottom: 0%;
+	background: linear-gradient(135.97deg, rgba(0, 0, 0, 0.0001) 50%, rgba(0, 0, 0, 0.1) 100%);
+}
+
+
+/* Intercom bubble chat */
+
+.ffww__intercom-bubble-chat {
+	position: absolute;
+	left: 62.32%;
+	right: 27.11%;
+	top: 86.16%;
+	bottom: 2.91%;
+}
+
+
+/* Intercom bubble chat */
+
+.ffww__intercom-bubble-chat-1 {
+	position: absolute;
+	left: 0%;
+	right: 0%;
+	top: 0%;
+	bottom: 0%;
+}
+
+
+/* Background */
+
+.ffww__background {
+	position: absolute;
+	left: 0%;
+	right: 0%;
+	top: 0%;
+	bottom: 0%;
+}
+
+
+/* Secondary Button */
+
+.ffww__secondary-button-11 {
+	background: #0093EE;
+	box-shadow: 0px 2px 32px rgba(0, 0, 0, 0.15), 0px 1px 6px rgba(0, 0, 0, 0.09);
+	border-radius: 30px;
+}
+
+
+/* Icons White / Messages */
+
+.ffww__icons-white-messages {
+	position: absolute;
+	left: 35%;
+	right: 35%;
+	top: 35%;
+	bottom: 36.15%;
+}
+
+
+/* Icon */
+
+.ffww__icon-9 {
+	position: absolute;
+	left: 0%;
+	right: 0%;
+	top: 0%;
+	bottom: 0%;
+	background: #FFFFFF;
+}
+
+
+/* Path */
+
+.ffww__path-2 {
+	position: absolute;
+	left: 0%;
+	right: 25%;
+	top: 0%;
+	bottom: 25%;
+	background: #DADADA;
+}
+
+
+/* Path */
+
+.ffww__path-3 {
+	position: absolute;
+	left: 20%;
+	right: 0%;
+	top: 20%;
+	bottom: 0%;
+	background: #DADADA;
+}
+
+
+/* Reply */
+
+.ffww__reply {
+	position: absolute;
+	left: 14.08%;
+	right: 40.14%;
+	top: 87.25%;
+	bottom: 3.28%;
+}
+
+
+/* Background */
+
+.ffww__background-1 {
+	position: absolute;
+	left: 14.08%;
+	right: 40.14%;
+	top: 87.25%;
+	bottom: 3.28%;
+	background: #F0F3F5;
+	box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.05), 0px 2px 32px rgba(0, 0, 0, 0.15);
+	border-radius: 4px;
+}
+
+
+/* Attach file */
+
+.ffww__attach-file {
+	position: absolute;
+	left: 52.99%;
+	right: 43.49%;
+	top: 90.16%;
+	bottom: 6.19%;
+}
+
+
+/* Guide */
+
+.ffww__guide {
+	position: absolute;
+	left: 52.99%;
+	right: 43.49%;
+	top: 90.16%;
+	bottom: 6.19%;
+	background: #FF9B9B;
+}
+
+
+/* Icon */
+
+.ffww__icon-10 {
+	position: absolute;
+	left: 53.6%;
+	right: 44.08%;
+	top: 90.66%;
+	bottom: 6.73%;
+	border: 1px solid #BDC8D1;
+}
+
+
+/* Smiley */
+
+.ffww__smiley {
+	position: absolute;
+	left: 48.06%;
+	right: 48.42%;
+	top: 90.16%;
+	bottom: 6.19%;
+}
+
+
+/* Guide */
+
+.ffww__guide-1 {
+	position: absolute;
+	left: 48.06%;
+	right: 48.42%;
+	top: 90.16%;
+	bottom: 6.19%;
+	background: #FF9B9B;
+}
+
+
+/* Head */
+
+.ffww__head {
+	position: absolute;
+	left: 48.42%;
+	right: 48.77%;
+	top: 90.53%;
+	bottom: 6.56%;
+	background: #BDC8D1;
+}
+
+
+/* Big circle */
+
+.ffww__big-circle {
+	position: absolute;
+	left: 48.42%;
+	right: 48.77%;
+	top: 90.53%;
+	bottom: 6.56%;
+	background: #DADADA;
+	border-radius: 8px;
+}
+
+
+/* Small circle */
+
+.ffww__small-circle {
+	position: absolute;
+	left: 48.59%;
+	right: 48.94%;
+	top: 90.71%;
+	bottom: 6.74%;
+	background: #DADADA;
+	border-radius: 8px;
+}
+
+
+/* Mouth */
+
+.ffww__mouth {
+	position: absolute;
+	left: 49.2%;
+	right: 49.54%;
+	top: 92.29%;
+	bottom: 7.35%;
+	border: 1px solid #BDC8D1;
+}
+
+
+/* Right eye */
+
+.ffww__right-eye {
+	position: absolute;
+	left: 50.09%;
+	right: 49.65%;
+	top: 91.53%;
+	bottom: 8.2%;
+	background: #BDC8D1;
+	border-radius: 1px;
+}
+
+
+/* Left eye */
+
+.ffww__left-eye {
+	position: absolute;
+	left: 49.3%;
+	right: 50.44%;
+	top: 91.53%;
+	bottom: 8.2%;
+	background: #BDC8D1;
+	border-radius: 1px;
+}
+
+
+/* Reply to Kévin... */
+
+.ffww__reply-to-kévin {
+	position: absolute;
+	left: 17.61%;
+	right: 63.91%;
+	top: 89.98%;
+	bottom: 6.56%;
+	font-family: Helvetica Neue;
+	line-height: 19px;
+	font-size: 14px;
+	color: #A5ADB6;
+}
+
+
+/* Bubble chat */
+
+.ffww__bubble-chat {
+	position: absolute;
+	left: 13.2%;
+	right: 40.14%;
+	top: -1.09%;
+	bottom: 14.57%;
+}
+
+
+/* Background */
+
+.ffww__background-2 {
+	position: absolute;
+	left: 13.2%;
+	right: 40.14%;
+	top: -1.09%;
+	bottom: 14.57%;
+	background: #FFFFFF;
+	box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.02);
+}
+
+
+/* Triangle */
+
+.ffww__triangle {
+	position: absolute;
+	left: 13.2%;
+	right: 85.74%;
+	top: 82.7%;
+	bottom: 14.57%;
+	background: #DADADA;
+}
+
+
+/* Rectangle */
+
+.ffww__rectangle-9 {
+	position: absolute;
+	left: 14.08%;
+	right: 40.14%;
+	top: -1.09%;
+	bottom: 14.57%;
+	background: #DADADA;
+}
+
+
+/* Rectangle 3.2 */
+
+.ffww__rectangle-3-2 {
+	position: absolute;
+	width: 353px;
+	height: 6px;
+	left: 328px;
+	top: 446px;
+	background: rgba(196, 196, 196, 0.35);
+	border-radius: 5px;
+	transform: rotate(-90deg);
+}
+
+
+/* Hello, how can we help you? */
+
+.ffww__hello,
+-how-can-we-help {
+	position: absolute;
+	left: 17.61%;
+	right: 47.18%;
+	top: 0%;
+	bottom: 96.54%;
+	font-family: Helvetica Neue;
+	line-height: 19px;
+	font-size: 14px;
+	letter-spacing: 0.3px;
+	color: #6E7A89;
+}
+
+
+/* Hello, how can we help you? */
+
+.ffww__hello,
+-how-can-we-help-1 {
+	position: absolute;
+	left: 17.08%;
+	right: 47.71%;
+	top: 25.68%;
+	bottom: 48.45%;
+	font-family: Helvetica Neue;
+	line-height: 28px;
+	font-size: 14px;
+	letter-spacing: 0.3px;
+	color: #6E7A89;
+}
+
+
+/* Sarah */
+
+.ffww__sarah {
+	position: absolute;
+	left: 17.08%;
+	right: 53.87%;
+	top: 20.4%;
+	bottom: 76.14%;
+	font-family: Helvetica Neue;
+	line-height: 19px;
+	font-size: 14px;
+	letter-spacing: -0.2px;
+	color: #606273;
+}
+
+
+/* Sarah */
+
+.ffww__sarah-1 {
+	position: absolute;
+	left: 17.08%;
+	right: 53.87%;
+	top: 62.11%;
+	bottom: 34.43%;
+	font-family: Helvetica Neue;
+	line-height: 19px;
+	font-size: 14px;
+	letter-spacing: -0.2px;
+	color: #606273;
+}
+
+
+/* Sarah */
+
+.ffww__sarah-2 {
+	position: absolute;
+	left: 20.42%;
+	right: 63.03%;
+	top: 80.69%;
+	bottom: 15.85%;
+	font-family: Helvetica Neue;
+	line-height: 19px;
+	font-size: 14px;
+	letter-spacing: -0.2px;
+	color: #606273;
+}
+
+
+/* Hello, how can we help you? */
+
+.ffww__hello,
+-how-can-we-help-2 {
+	position: absolute;
+	left: 17.08%;
+	right: 47.71%;
+	top: 66.48%;
+	bottom: 23.13%;
+	font-family: Helvetica Neue;
+	line-height: 19px;
+	font-size: 14px;
+	letter-spacing: 0.3px;
+	color: #6E7A89;
+}
+
+
+/* Profiles pictures */
+
+.ffww__profiles-pictures {
+	position: absolute;
+	left: 2.64%;
+	right: 88.56%;
+	top: 76.32%;
+	bottom: 14.57%;
+	box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+}
+
+
+/* Profile picture */
+
+.ffww__profile-picture {
+	position: absolute;
+	left: 2.64%;
+	right: 88.56%;
+	top: 76.32%;
+	bottom: 14.57%;
+	background: url("/images/profile-0.png");
+	box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.02), 0px 2px 4px rgba(0, 0, 0, 0.05);
+	border-radius: 25px;
+}
+
+
+/* image */
+
+.ffww__image-1 {
+	position: absolute;
+	left: 0.35%;
+	right: 85.92%;
+	top: 76.32%;
+	bottom: 14.21%;
+	background: url("/images/profile.png");
+}
+
+
+/* Rectangle */
+
+.ffww__rectangle-10 {
+	position: absolute;
+	left: 14.08%;
+	right: 40.14%;
+	top: 4.01%;
+	bottom: 80.33%;
+	background: rgba(183, 210, 229, 0.3);
+}
+
+
+/* Responses */
+
+.ffww__responses {
+	position: absolute;
+	width: 200px;
+	height: 67px;
+	left: 97px;
+	top: 30px;
+}
+
+
+/* Do you offer coverage in Bolivia? */
+
+.ffww__do-you-offer-coverage {
+	position: absolute;
+	left: 17.08%;
+	right: 47.71%;
+	top: 10.75%;
+	bottom: 82.33%;
+	font-family: Helvetica Neue;
+	line-height: 19px;
+	font-size: 14px;
+	letter-spacing: 0.3px;
+	color: #2C405A;
+}
+
+
+/* You */
+
+.ffww__you {
+	position: absolute;
+	left: 17.08%;
+	right: 77.99%;
+	top: 5.46%;
+	bottom: 91.07%;
+	font-family: Helvetica Neue;
+	line-height: 19px;
+	font-size: 14px;
+	letter-spacing: -0.2px;
+	color: #2C405A;
+}
+
+
+/* Rectangle */
+
+.ffww__rectangle-11 {
+	position: absolute;
+	left: 14.08%;
+	right: 40.14%;
+	top: 49%;
+	bottom: 38.98%;
+	background: rgba(183, 210, 229, 0.3);
+}
+
+
+/* Responses */
+
+.ffww__responses-1 {
+	position: absolute;
+	width: 200px;
+	height: 48px;
+	left: 97px;
+	top: 276px;
+}
+
+
+/* Do you offer coverage in Bolivia? */
+
+.ffww__do-you-offer-coverage-1 {
+	position: absolute;
+	left: 17.08%;
+	right: 47.71%;
+	top: 55.56%;
+	bottom: 40.98%;
+	font-family: Helvetica Neue;
+	line-height: 19px;
+	font-size: 14px;
+	letter-spacing: 0.3px;
+	color: #2C405A;
+}
+
+
+/* You */
+
+.ffww__you-1 {
+	position: absolute;
+	left: 17.08%;
+	right: 77.99%;
+	top: 50.27%;
+	bottom: 46.27%;
+	font-family: Helvetica Neue;
+	line-height: 19px;
+	font-size: 14px;
+	letter-spacing: -0.2px;
+	color: #2C405A;
+}
+
+
+/* Thinking */
+
+.ffww__thinking {
+	position: absolute;
+	width: 16px;
+	height: 4.15px;
+	left: 93px;
+	top: 454px;
+}
+
+
+/* Ellipse */
+
+.ffww__ellipse-1 {
+	position: absolute;
+	width: 4.15px;
+	height: 4.15px;
+	left: 93px;
+	top: 454px;
+	background: #3F536E;
+}
+
+
+/* Ellipse */
+
+.ffww__ellipse-2 {
+	position: absolute;
+	width: 4.15px;
+	height: 4.15px;
+	left: 98.93px;
+	top: 454px;
+	background: #3F536E;
+}
+
+
+/* Ellipse */
+
+.ffww__ellipse-3 {
+	position: absolute;
+	width: 4.15px;
+	height: 4.15px;
+	left: 104.85px;
+	top: 454px;
+	background: #3F536E;
+}
